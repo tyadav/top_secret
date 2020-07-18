@@ -1,2 +1,5 @@
 # top_secret
-Encryption
+Encryption n Decryption through various methods
+Basics of Encryption
+ECB
+CBC
